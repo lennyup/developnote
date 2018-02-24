@@ -13,3 +13,18 @@
 ## React Native
 
 [React Native源码解析](https://github.com/guoxiaoxing/react-native)
+
+[水平滑动组件，超炫酷](https://github.com/archriss/react-native-snap-carousel)
+
+## Android
+
+[8.0 版本升级安装的坑](http://blog.csdn.net/github_2011/article/details/78589514?locationnum=2&fps=1)
+
+## 图片素材
+[高清无版权图片](https://pixabay.com/)
+
+[高清无版权图片2](https://unsplash.com/)
+
+## 微信公众号
+
+[微信公众号排版完全指南](http://www.meihua.info/a/69626)
