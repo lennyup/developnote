@@ -23,6 +23,8 @@
 
 [8.0 版本升级安装的坑](http://blog.csdn.net/github_2011/article/details/78589514?locationnum=2&fps=1)
 
+[NestedScrolling机制](https://blog.csdn.net/al4fun/article/details/53888990)
+
 ## 图片素材
 [高清无版权图片](https://pixabay.com/)
 
