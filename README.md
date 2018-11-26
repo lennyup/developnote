@@ -13,6 +13,9 @@
 ## javascript
 
 [webpack插件归纳总结](https://segmentfault.com/a/1190000016816813)
+
+## React
+[React 技术栈系列教程](http://www.ruanyifeng.com/blog/2016/09/react-technology-stack.html)
 ## React Native
 
 [React Native源码解析](https://github.com/guoxiaoxing/react-native)
