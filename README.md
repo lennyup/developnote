@@ -36,3 +36,5 @@
 ## 微信公众号
 
 [微信公众号排版完全指南](http://www.meihua.info/a/69626)
+[公众号运营工具](https://cloud.tencent.com/developer/article/1494856)
+[实用的在线网站（免费）](https://cloud.tencent.com/developer/article/1466997)
